@@ -1,0 +1,35 @@
+/* Header.css */
+.custom-navbar {
+    background-color: #2874f0; /* Flipkart blue */
+  }
+  
+  .custom-navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .custom-navbar .nav-link {
+    color: #fff;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #e1e1e1; /* Slightly lighter shade on hover */
+  }
+  
+  .custom-navbar .dropdown-menu {
+    background-color: #2874f0; /* Flipkart blue */
+  }
+  
+  .custom-navbar .dropdown-menu a {
+    color: #fff;
+  }
+  
+  .custom-navbar .dropdown-menu a:hover {
+    background-color: #1e5aa9; /* Darker shade on hover */
+  }
+  
+  .custom-navbar .badge {
+    background-color: #e50914; /* Reddish color for badge */
+  }
+  
